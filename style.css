@@ -1,0 +1,21 @@
+body{
+    background:url('img/wallpaper.jpg');
+    background-size: cover;
+}
+.container{
+     background-color: #aFb7d0;
+}
+.myInput{
+    margin: 7ex;
+}
+
+.displayNone{
+    display: none;
+}
+
+h1>center{
+    padding-top: 2ex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: lightgoldenrodyellow;
+}
